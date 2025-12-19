@@ -29,7 +29,7 @@ Ensure you have the following installed on your system:
 ### 📂 Clone the Repository
 
 ```sh
-git clone https://github.com/vincentbui21/react_movie_search.git
+https://github.com/tobidinho10/Movie_search.git
 cd react_movie_search
 ```
 
